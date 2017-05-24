@@ -1,0 +1,18 @@
+#navigation {
+  height: 50px;
+  background-color: #000;
+}
+
+.nav {
+  float: right;
+}
+
+/* hero */
+
+.jumbotron {
+  text-align: center;
+}
+
+.well {
+  text-align: center;
+}
